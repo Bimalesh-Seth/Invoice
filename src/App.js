@@ -25,12 +25,12 @@ class App extends Component {
     };
   }
 
-  componentDidMount() {
-    let tag = document.createElement("script");
-    tag.async = false;
-    tag.src = "/bootstrap.bundle.min.js";
-    document.getElementsByTagName("body")[0].appendChild(tag);
-  }
+  // componentDidMount() {
+  //   let tag = document.createElement("script");
+  //   tag.async = false;
+  //   tag.src = "/bootstrap.bundle.min.js";
+  //   document.getElementsByTagName("body")[0].appendChild(tag);
+  // }
 
   print = () => {
     var divContents = document.getElementById("PrintArea").innerHTML;
