@@ -1,0 +1,44 @@
+bimalesh jAwahir seth
+
+Nakoda Heights Building No.2, Nalasopara West
+
+7039581571
+
+
+
+{
+        type: 'mobile',
+        id: 74896,
+        mobileName: 'Realme C11 2/32',
+        description: 'Mast hai',
+        nos1: '2344325739857023',
+        nos2: '2345234598723458',
+        battaryNo: 'dfrtyrtyedrty',
+        chargerNo: 'rtyertyetryrety',
+        qty: '1',
+        price: '5000'
+      },
+      {
+        type: 'mobile',
+        id: 723896,
+        mobileName: 'Realme C11 2/32',
+        description: 'Mast hai',
+        nos1: '2344325739857023',
+        nos2: '2345234598723458',
+        battaryNo: 'SDFGSDFGSDFGSDSDFF',
+        chargerNo: 'SDFGSDFGSDFGSDSDFF',
+        qty: '1',
+        price: '5000'
+      },
+      {
+        type: 'mobile',
+        id: 7424896,
+        mobileName: 'Realme C11 2/32',
+        description: 'Mast hai',
+        nos1: '2344325739857023',
+        nos2: '2345234598723458',
+        battaryNo: 'SDFGSDFGSDFGSDSDFF',
+        chargerNo: 'SDFGSDFGSDFGSDSDFF',
+        qty: '1',
+        price: '5000'
+      }
